@@ -1,6 +1,17 @@
-# # main links
-# main:
-#   - title: "블로그 방문하기"
-#     url: https://devinlife.com/
-#   - title: "About"
-#     url: /about/
+# main links
+main:
+  - title: "Home"
+    url: https://Ai-vs-human.github.io/
+  - title: "포트폴리오"
+    url: /resume/
+  - title: "자기소개"
+    url: /about/
+
+
+categories:
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "study"
+    url: /study/   
