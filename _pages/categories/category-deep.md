@@ -1,9 +1,9 @@
 ---
-title: "Python"
+title: "DL"
 layout: category
-permalink: /categories/python/
+permalink: /categories/dl/
 author_profile: true
-taxonomy: Python
+taxonomy: "DL"
 sidebar:
   nav: "categories"
 ---

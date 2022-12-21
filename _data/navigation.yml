@@ -9,9 +9,15 @@ main:
 
 
 categories:
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "study"
-    url: /study/   
+  - title: " 딥러닝"
+    url: /categories/dl
+  - title: " 비전 "
+    url: /categories/dl/
+  - title: " 자연어"
+    url: /categories/dl/
+  - title: "머신러닝"
+    url: /categories/ML/
+  - title: "공부"
+    url: /categories/study/   
+
+  
