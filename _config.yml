@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "학습하는 개발 블로거."
-  avatar           :  path of avatar image, e.g. "/assets/images/114911136.jpeg"
+  avatar           : "/assets/images/114911136.jpeg"
   bio              : "개발 일지"
   location         : "South Korea 한국"
   email            :
