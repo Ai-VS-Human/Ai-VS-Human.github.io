@@ -1,4 +1,4 @@
----
+<!-- ---
 title: " 추후 업데이트  "
 permalink: /resume/
 layout: single
@@ -9,4 +9,4 @@ layout: single
 2022-12-22 
 
 
-
+ -->

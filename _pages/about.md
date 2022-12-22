@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "학습 시작 "
 permalink: /about/
 layout: single
@@ -10,4 +10,4 @@ layout: single
 
 먼저 데이터의 모양을 보겠습니다 
 
-
+ -->

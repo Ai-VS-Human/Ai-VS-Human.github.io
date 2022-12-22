@@ -1,7 +1,7 @@
 ---
 title: "ML"
 layout: category
-permalink: /categories/ml
+permalink: /categories/ML
 author_profile: true
 taxonomy: "ML"
 sidebar:

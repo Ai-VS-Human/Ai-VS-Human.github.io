@@ -1,7 +1,7 @@
 ---
 title: "DL"
 layout: category
-permalink: /categories/dl/
+permalink: /categories/DL/
 author_profile: true
 taxonomy: "DL"
 sidebar:

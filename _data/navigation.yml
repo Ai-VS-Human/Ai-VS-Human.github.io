@@ -2,22 +2,22 @@
 main:
   - title: "Home"
     url: https://ai-vs-human.github.io/
-  - title: "포트폴리오"
-    url: /resume/
-  - title: "자기소개"
-    url: /about/
-
+  # - title: "포트폴리오"
+  #   url: /resume/
+  # - title: "자기소개"
+  #   url: /about/
+  - title: " categories"
+    url: /categories/
 
 categories:
   - title: " 딥러닝"
-    url: /categories/dl
-  - title: " 비전 "
-    url: /categories/vision/
-  - title: " 자연어"
-    url: /categories/nlp/
+    url: /categories/DL
+  # - title: " 비전 "
+  #   url: /categories/vision/
+  # - title: " 자연어"
+  #   url: /categories/nlp/
   - title: "머신러닝"
-    url: /categories/ml/
-  - title: "공부"
-    url: /categories/study/   
+    url: /categories/ML/
+  # - title: "공부"
+  #   url: /categories/study/   
 
-  

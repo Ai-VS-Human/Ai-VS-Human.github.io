@@ -303,6 +303,8 @@ defaults:
       author_profile: true
       read_time: false
       comments: true
+      show_date: true   # 포스팅 날짜 표시
+
       share: true
       related: false
 
