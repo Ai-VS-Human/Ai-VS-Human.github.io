@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "클론코딩러"
 title_separator          : 
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "인간 vs 인공지능 "
+name                     : "Ai-VS-Human"
 description              : 
 url                      : "https://ai-vs-human.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : " 인간 vs 인공지능  ."
+  name             : " 조 성호"
   avatar           : "/assets/images/114911136.jpeg"
   # bio              :
   location         : "South Korea 한국"

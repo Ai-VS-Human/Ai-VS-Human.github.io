@@ -18,6 +18,6 @@ categories:
   #   url: /categories/nlp/
   - title: "머신러닝"
     url: /categories/ML/
-  # - title: "공부"
-  #   url: /categories/study/   
+  - title: '깃헙 블로그'
+    url: /categories/Git
 
