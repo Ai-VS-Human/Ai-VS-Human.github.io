@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Home"
-    url: https://ai-vs-human.github.io/
+    url: ai-vs-human.github.io
   # - title: "포트폴리오"
   #   url: /resume/
   # - title: "자기소개"
   #   url: /about/
-  - title: " categories"
+  - title: "categories"
     url: /categories/
 
 categories:
