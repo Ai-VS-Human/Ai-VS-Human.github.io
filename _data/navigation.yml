@@ -19,5 +19,6 @@ categories:
   - title: "머신러닝"
     url: /categories/ML/
   - title: '깃헙 블로그'
-    url: /categories/Git
-
+    url: /categories/Git 
+  - title: 'C#'
+    url: /categories/C#
