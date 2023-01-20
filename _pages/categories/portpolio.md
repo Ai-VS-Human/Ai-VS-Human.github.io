@@ -1,9 +1,9 @@
 ---
-title: "portpolio"
+title: "portfolio"
 layout: category
-permalink: /categories/portpolio
+permalink: /categories/portfolio
 author_profile: true
-taxonomy: "portpolio"
+taxonomy: "portfolio"
 sidebar:
   nav: "categories"
 ---
