@@ -20,10 +20,13 @@ categories:
     url: /categories/ML/
   - title: 'AI 포트폴리오'
     url: /categories/portfolio    
-  - title: '깃헙 블로그'
-    url: /categories/Git 
+  # - title: '깃헙 블로그'
+  #   url: /categories/Git 
   - title: 'C#'
     url: /categories/C#
   - title: 'JAVA'
     url: /categories/JAVA
+  - title: '개발일지'
+    url: /categories/diary
+
 
