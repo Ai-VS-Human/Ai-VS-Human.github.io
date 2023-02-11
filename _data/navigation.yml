@@ -26,6 +26,8 @@ categories:
     url: /categories/C#
   - title: 'JAVA'
     url: /categories/JAVA
+  - title: 'Spring'
+    url: /categories/Spring
   - title: '개발일지'
     url: /categories/diary
 
