@@ -10,16 +10,16 @@ main:
     url: /categories/
 
 categories:
-  - title: " 딥러닝"
-    url: /categories/DL
+  # - title: " 딥러닝"
+  #   url: /categories/DL
   # - title: " 비전 "
   #   url: /categories/vision/
   # - title: " 자연어"
   #   url: /categories/nlp/
-  - title: "머신러닝"
-    url: /categories/ML/
-  - title: 'AI 포트폴리오'
-    url: /categories/portfolio    
+  # - title: "머신러닝"
+  #   url: /categories/ML/
+  # - title: 'AI 포트폴리오'
+  #   url: /categories/portfolio    
   # - title: '깃헙 블로그'
   #   url: /categories/Git 
   - title: 'C#'
